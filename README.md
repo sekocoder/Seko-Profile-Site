@@ -1,7 +1,7 @@
 # Seko-Profile-Site
  My profile website
  
-# Web site link
+# Website link
 
 [singhsiddharth.netlify.app](https://singhsiddharth.netlify.app/)
  
