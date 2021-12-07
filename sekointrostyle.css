@@ -1,0 +1,84 @@
+html {
+  font-size: 100%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  -webkit-box-sizing: inherit;
+          box-sizing: inherit;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: x-large;
+  line-height: 1.8;
+  margin: 0px;
+  padding: 0px;
+}
+
+.div1 {
+  text-align: center;
+  font-size: 120%;
+  font-style: oblique;
+  color: #ffffff;
+}
+
+.vdbg1 {
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  min-height: 128vh;
+}
+
+.imgs1 {
+  width: 45vh;
+  height: 45vh;
+  margin: auto;
+  margin-top: 60px;
+  display: block;
+  border-radius: 50%;
+  /* top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);*/
+}
+
+.slinks1 {
+  color: #ffffff;
+  -webkit-transition: color 0.2s;
+  transition: color 0.2s;
+  text-decoration: none;
+  margin-right: 45px;
+  font-size: 230%;
+}
+
+.slinks1:hover {
+  color: black;
+}
+
+.slinks2 {
+  color: #ffffff;
+  -webkit-transition: color 0.2s;
+  transition: color 0.2s;
+  margin-left: 45px;
+  font-size: 230%;
+}
+
+.slinks2:hover {
+  color: royalblue;
+}
+
+.div2 {
+  margin-top: 40px;
+  -ms-flex-line-pack: center;
+      align-content: center;
+}
+
+.h1c {
+  color: #000029;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 140%;
+}
+/*# sourceMappingURL=sekointrostyle.css.map */
