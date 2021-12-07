@@ -1,5 +1,5 @@
 # Seko-Profile-Site
- My profile website
+My profile website
  
 # Website link
 
@@ -10,7 +10,3 @@
 1. CSS
 2. HTML
 3. Javascript
-
-# Screenshots
-
-![sekosite]()
