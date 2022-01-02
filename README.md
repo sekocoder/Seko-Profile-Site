@@ -1,5 +1,5 @@
 # Seko-Profile-Site
-My responsiveprofile website
+My responsive profile website
  
 # Website link
 
